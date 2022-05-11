@@ -1,4 +1,4 @@
-# Lending Club Vase Study
+# Lending Club Case Study
 > Risk Analysis over the landing club data where we analyzed and helps in decision making to offer a loan to a particular loan application or not
 
 # Team Members
